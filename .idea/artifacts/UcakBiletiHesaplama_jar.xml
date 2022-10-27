@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UcakBiletiHesaplama:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UcakBiletiHesaplama_jar</output-path>
+    <root id="archive" name="UcakBiletiHesaplama.jar">
+      <element id="module-output" name="UcakBiletiHesaplama" />
+    </root>
+  </artifact>
+</component>
